@@ -1,0 +1,11 @@
+(2) Reading is OUT, Interacting is IN
+Let's not beat around the bush - no one wants to read large documents anymore, especially using mobile devices or cell phones. So, all the brochures, users manuals, hand books, training materials, and documents are starting to gather digital dust. 
+
+Article for reference: https://www.linkedin.com/pulse/turning-documents-chatbots-riza-c-berkan-ph-d/
+
+In Lexis Advance, there many features that can be used to assist with searching, saving and exploring all of the legal content that LexisNexis has available, but users often don't know how to use them effectively. The help system for Lexis Advance has a great deal of information that could assist them, but its not integrated with the application and requires some knowledge of what you're looking for. How might we use a conversational user interface (like a chatbot) that could be integrated with Lexis Advance directly to help users get the needed information from our Lexis Advance help system.
+
+Product Manager: Mike Etgen, Technical Contact: Robin Stubbart
+
+Here is the public URL for the Help System:
+http://help.lexisnexis.com/tabula-rasa/newlexis/gh_results-topic?lbu=US&locale=en_US&audience=all,res,cb,lps,med,vsa,tax,lpa,icw,blink,bcheck,pub,urlapi

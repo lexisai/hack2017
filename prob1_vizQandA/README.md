@@ -1,5 +1,3 @@
-
-
 <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-16LE">
 
 </head>
@@ -45,7 +43,7 @@ guide has 2 parts (tools and data) but not in that order&nbsp;<span style="mso-n
  mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image001.png"
   o:title="(wink)"/>
-</v:shape><![endif]--><!--[if !vml]--><img width="16" height="16" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image001.png" alt="(wink)" v:shapes="Picture_x0020_1"><!--[endif]--></span><o:p></o:p></span></h2>
+</v:shape><![endif]--><!--[if !vml]--><img width="16" height="16" src="./hackers-guide_files/image001.png" alt="(wink)" v:shapes="Picture_x0020_1"><!--[endif]--></span><o:p></o:p></span></h2>
 
 <div>
 
@@ -74,7 +72,7 @@ and lovingly, winnowed and massaged into the simple schema below:<o:p></o:p></sp
  height:3in;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image002.png"
   o:title="3d8a5271016e501abc68c94a653a4a6b"/>
-</v:shape><![endif]--><!--[if !vml]--><img width="468" height="288" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image003.png" v:shapes="Picture_x0020_2"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
+</v:shape><![endif]--><!--[if !vml]--><img width="468" height="288" src="./hackers-guide_files/image003.png" v:shapes="Picture_x0020_2"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
 
 <p><span class="GramE"><span style="font-family:&quot;Segoe UI&quot;,sans-serif">In order
 to</span></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"> ensure the
@@ -161,14 +159,14 @@ areas, starting points for Q&amp;A sections like the topics entry page:<o:p></o:
  height:258pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image004.png"
   o:title="81ee836a46a9b268c1f0c8342611d170"/>
-</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="344" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image005.png" v:shapes="Picture_x0020_3"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="344" src="./hackers-guide_files/image005.png" v:shapes="Picture_x0020_3"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
 
 <p><span style="font-family:&quot;Segoe UI&quot;,sans-serif">It has a parent/child <span class="SpellE">hierachy</span> and when you do a hierarchical query (or graph <span class="SpellE">vizualization</span>&nbsp;<span style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
  id="Picture_x0020_4" o:spid="_x0000_i1042" type="#_x0000_t75" alt="(smile)"
  style='width:12pt;height:12pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image006.png"
   o:title="(smile)"/>
-</v:shape><![endif]--><!--[if !vml]--><img border="0" width="16" height="16" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image006.png" alt="(smile)" v:shapes="Picture_x0020_4"><!--[endif]--></span>&nbsp;)&nbsp;you get something like
+</v:shape><![endif]--><!--[if !vml]--><img border="0" width="16" height="16" src="./hackers-guide_files/image006.png" alt="(smile)" v:shapes="Picture_x0020_4"><!--[endif]--></span>&nbsp;)&nbsp;you get something like
 this:<o:p></o:p></span></p>
 
 <p><span style="font-family:&quot;Segoe UI&quot;,sans-serif;mso-no-proof:yes"><!--[if gte vml 1]><v:shape
@@ -176,7 +174,7 @@ this:<o:p></o:p></span></p>
  height:401.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image007.png"
   o:title="3615ab88317ca30e2a03473a37f623e7"/>
-</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="535" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image008.png" v:shapes="Picture_x0020_5"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="535" src="./hackers-guide_files/image008.png" v:shapes="Picture_x0020_5"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
 
 <p><span style="font-family:&quot;Segoe UI&quot;,sans-serif">For SOC (<span class="SpellE">clusterId</span>
 =&nbsp;<strong><span style="font-family:&quot;Segoe UI&quot;,sans-serif">1000018158</span></strong>)
@@ -201,7 +199,7 @@ the Breadcrumb Heading in the screenshot below.<o:p></o:p></span></p>
  height:353.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image009.jpg"
   o:title="988eef9b1d6befa2c9a975e44f49eb69"/>
-</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="471" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image010.jpg" v:shapes="Picture_x0020_6"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="471" src="./hackers-guide_files/image010.jpg" v:shapes="Picture_x0020_6"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
 
 <p><span style="font-family:&quot;Segoe UI&quot;,sans-serif">This screenshot is a step in
 the Standard of Care Questionnaire with the goal of finding "deviations in
@@ -223,7 +221,7 @@ Myocardial Infarction) and are asked in order.<o:p></o:p></span></p>
  height:99pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image011.png"
   o:title="295388953d9ca350ba3ef4d3c5189bf0"/>
-</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="132" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image012.png" v:shapes="Picture_x0020_7"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="132" src="./hackers-guide_files/image012.png" v:shapes="Picture_x0020_7"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
 
 <h3 id="Hacker&#39;sGuidetoQ&amp;AVisualization-TheAnswersTable:"><span style="font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">The
 Answers Table:<o:p></o:p></span></h3>
@@ -238,7 +236,7 @@ to go.<o:p></o:p></span></p>
  height:149.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image013.png"
   o:title="f1d329dc16f9d558dd5812b31cfa87bc"/>
-</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="199" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image014.png" v:shapes="Picture_x0020_8"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="199" src="./hackers-guide_files/image014.png" v:shapes="Picture_x0020_8"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
 
 <h3 id="Hacker&#39;sGuidetoQ&amp;AVisualization-The&quot;ClusterStartQuestions&quot;Table:"><span style="font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">The
 "Cluster Start Questions" Table:<o:p></o:p></span></h3>
@@ -257,7 +255,7 @@ you'll need this table only if you are working with CVA visualizations.<o:p></o:
  height:147pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image015.png"
   o:title="b81ddb3d942b2c1b41c5444dc73c7f48"/>
-</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="196" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image016.png" v:shapes="Picture_x0020_9"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" width="468" height="196" src="./hackers-guide_files/image016.png" v:shapes="Picture_x0020_9"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif"><o:p></o:p></span></p>
 
 <p><span style="font-family:&quot;Segoe UI&quot;,sans-serif">SOC tables discussed at a
 glance...<o:p></o:p></span></p>
@@ -405,7 +403,7 @@ tools and add-ins for business users and analysts to work with as well&nbsp;<spa
  height:12pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image006.png"
   o:title="(smile)"/>
-</v:shape><![endif]--><!--[if !vml]--><img border="0" width="16" height="16" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image006.png" alt="(smile)" v:shapes="Picture_x0020_10"><!--[endif]--></span><o:p></o:p></span></p>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" width="16" height="16" src="./hackers-guide_files/image006.png" alt="(smile)" v:shapes="Picture_x0020_10"><!--[endif]--></span><o:p></o:p></span></p>
 
 <h3 id="Hacker&#39;sGuidetoQ&amp;AVisualization-Workspaces:"><span style="font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Workspaces:<o:p></o:p></span></h3>
 
@@ -517,7 +515,7 @@ Visualization:<o:p></o:p></span></h3>
       height:249pt;visibility:visible;mso-wrap-style:square'>
       <v:imagedata src="Hacker's+Guide+to+Q&amp;A+Visualization_files/image017.png"
        o:title=""/>
-     </v:shape><![endif]--><!--[if !vml]--><img border="0" width="624" height="332" src="file:///C:/Users/domingmx/Downloads/Hacker&#39;s+Guide+to+Q&amp;A+Visualization_files/image018.jpg" v:shapes="Picture_x0020_22"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><o:p></o:p></span></li>
+     </v:shape><![endif]--><!--[if !vml]--><img border="0" width="624" height="332" src="./hackers-guide_files/image018.jpg" v:shapes="Picture_x0020_22"><!--[endif]--></span><span style="font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><o:p></o:p></span></li>
 </ul>
 
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;

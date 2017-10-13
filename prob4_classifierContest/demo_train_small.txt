@@ -1,0 +1,19 @@
+greeting	How are you?
+greeting	How is your day?
+greeting	Good day
+greeting	Good afternoon
+greeting 	Good evening
+greeting 	What's up?
+greetig 	What's new?
+greeting	How's everything?
+greeting	Been awhile
+greeting	Howdy
+goodbye	Bye
+goodbye	Have a nice day
+goodbye	See you later
+goodbye	Have a nice day
+goodbye	Talk to you soon
+goodbye	So long
+goodbye	Farewell
+goodbye	Have a good day
+goodbye	Take care

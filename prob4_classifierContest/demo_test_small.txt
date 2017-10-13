@@ -1,0 +1,11 @@
+greeting	Good morning
+greeting	How are you today?
+greeting	How is it going today?
+greeting	Hey man
+goodbye	Bye bye!
+goodbye	Later aligator
+goodbye	Talk to you tomorrow
+goodbye	I am out of here
+
+
+
